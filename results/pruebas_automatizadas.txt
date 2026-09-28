@@ -1,0 +1,27 @@
+test_entry (test_core.CountingTests.test_entry) ... ok
+test_exit (test_core.CountingTests.test_exit) ... ok
+test_independent_tracks (test_core.CountingTests.test_independent_tracks) ... ok
+test_invalid_initial (test_core.CountingTests.test_invalid_initial) ... ok
+test_invalid_line (test_core.CountingTests.test_invalid_line) ... ok
+test_invert (test_core.CountingTests.test_invert) ... ok
+test_negative_flag (test_core.CountingTests.test_negative_flag) ... ok
+test_no_birth_count (test_core.CountingTests.test_no_birth_count) ... ok
+test_no_jitter (test_core.CountingTests.test_no_jitter) ... ok
+test_occlusion_reset (test_core.CountingTests.test_occlusion_reset) ... ok
+test_outside_segment (test_core.CountingTests.test_outside_segment) ... ok
+test_recross (test_core.CountingTests.test_recross) ... ok
+test_single_frame_spike (test_core.CountingTests.test_single_frame_spike) ... ok
+test_time_reversal (test_core.CountingTests.test_time_reversal) ... ok
+test_unknown_occupancy (test_core.CountingTests.test_unknown_occupancy) ... ok
+test_audited_confirmation (test_core.StorageTests.test_audited_confirmation) ... ok
+test_duplicate_event_rejected (test_core.StorageTests.test_duplicate_event_rejected) ... ok
+test_event_required (test_core.StorageTests.test_event_required) ... ok
+test_evidence_required (test_core.StorageTests.test_evidence_required) ... ok
+test_unassigned_by_default (test_core.StorageTests.test_unassigned_by_default) ... ok
+test_unknown_horse_rejected (test_core.StorageTests.test_unknown_horse_rejected) ... ok
+test_case_reconciles (test_economics.EconomicsTests.test_case_reconciles) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 1.671s
+
+OK

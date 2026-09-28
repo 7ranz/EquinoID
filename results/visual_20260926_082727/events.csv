@@ -1,0 +1,7 @@
+﻿event_id,track_id,sequence,video_seconds,direction,occupancy,warning,confidence,snapshot,horse_id,name,fictional
+1,2,1,0.8,ENTRADA,,,0.91606,evidence/T2_1.jpg,,,
+2,1,1,1.967,ENTRADA,,,0.88575,evidence/T1_1.jpg,,,
+3,5,1,2.433,ENTRADA,,,0.84335,evidence/T5_1.jpg,,,
+4,25,1,3.033,ENTRADA,,,0.82841,evidence/T25_1.jpg,,,
+5,6,1,3.667,ENTRADA,,,0.84784,evidence/T6_1.jpg,,,
+6,31,1,6.433,ENTRADA,,,0.9057,evidence/T31_1.jpg,,,

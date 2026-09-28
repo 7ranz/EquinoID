@@ -1,0 +1,33 @@
+{
+  "farm": "Hacienda Chamusca",
+  "camera": "CAM-PILOTO-03",
+  "source_name": "video_equino_04.mp4",
+  "source_sha256": "b2c840a512e6431d48ae2aa112ab66dec52befe87b000b003066c9f7c875f6a8",
+  "created_utc": "2026-09-26T03:16:08.181836+00:00",
+  "source_fps": 29.97002997002997,
+  "width": 640,
+  "height": 360,
+  "expected_frames": 480,
+  "versions": {
+    "python": "3.13.12",
+    "ultralytics": "8.3.221",
+    "torch": "2.9.0+cpu",
+    "opencv": "4.14.0",
+    "numpy": "2.5.3"
+  },
+  "platform": "Windows-11-10.0.26200-SP0",
+  "model_sha256": "85a76fe86dd8afe384648546b56a7a78580c7cb7b404fc595f97969322d502d5",
+  "status": "PARCIAL_USUARIO",
+  "error": null,
+  "processed_frames": 72,
+  "frames_with_tracks": 72,
+  "distinct_track_ids": 23,
+  "entries": 3,
+  "exits": 0,
+  "occupancy": null,
+  "video_seconds": 2.4024,
+  "elapsed_seconds": 12.866,
+  "processing_fps": 5.6,
+  "permanent_identity": "MANUAL_CONFIRMATION_ONLY",
+  "real_farm_deployment": false
+}

@@ -1,0 +1,2 @@
+﻿event_id,track_id,sequence,video_seconds,direction,occupancy,warning,confidence,snapshot,horse_id,name,fictional
+1,6,1,2.836,ENTRADA,,,0.80031,evidence/T6_1.jpg,,,

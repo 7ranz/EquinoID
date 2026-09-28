@@ -1,0 +1,29 @@
+{
+  "farm": "Hacienda Chamusca",
+  "camera": "CAM-PILOTO-01",
+  "model": "models/yolo11s.pt",
+  "tracker": "bytetrack.yaml",
+  "confidence": 0.18,
+  "image_size": 960,
+  "device": "cpu",
+  "threads": 4,
+  "line": [
+    [
+      0.65,
+      0.04
+    ],
+    [
+      0.65,
+      0.85
+    ]
+  ],
+  "anchor": "center",
+  "deadband": 0.01,
+  "stable_frames": 2,
+  "cooldown": 0.7,
+  "max_gap": 0.6,
+  "invert": true,
+  "initial_occupancy": null,
+  "registry": "data/caballos_demo.json",
+  "write_video": true
+}

@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "equinoid"
+version = "1.0.0"
+description = "Detección y conteo auditable de equinos para Hacienda Chamusca"
+requires-python = ">=3.11"
+dependencies = ["ultralytics==8.3.221", "opencv-python>=4.10,<5", "numpy>=1.26,<3", "lap==0.5.12"]
+
+[project.scripts]
+equinoid = "equinoid.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

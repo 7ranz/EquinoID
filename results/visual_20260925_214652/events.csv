@@ -1,0 +1,5 @@
+﻿event_id,track_id,sequence,video_seconds,direction,occupancy,warning,confidence,snapshot,horse_id,name,fictional
+1,3,1,3.633,SALIDA,,,0.60506,evidence/T3_1.jpg,,,
+2,87,1,7.267,SALIDA,,,0.55762,evidence/T87_1.jpg,,,
+3,144,1,8.3,SALIDA,,,0.53792,evidence/T144_1.jpg,,,
+4,122,1,9.2,SALIDA,,,0.30388,evidence/T122_1.jpg,,,

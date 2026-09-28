@@ -1,0 +1,2 @@
+﻿event_id,track_id,sequence,video_seconds,direction,occupancy,warning,confidence,snapshot,horse_id,name,fictional
+1,7,1,0.367,SALIDA,,,0.72991,evidence/T7_1.jpg,,,

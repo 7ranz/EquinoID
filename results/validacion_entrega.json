@@ -1,0 +1,16 @@
+{
+  "unit_tests": 22,
+  "unit_tests_passed": true,
+  "video_frames_processed": 425,
+  "events_with_evidence": 11,
+  "reference_events_provisional": 13,
+  "recall_descriptive": 0.8461538461538461,
+  "original_input_hash_verified": true,
+  "model_hash_verified": true,
+  "replay_and_manual_identity_smoke_test": "passed; performed on disposable copy",
+  "dossier_pages_visually_reviewed": 14,
+  "presentation_slides_visually_reviewed": 12,
+  "presentation_package_and_geometry": "passed",
+  "field_deployment_validated": false,
+  "economics": "simulated, not measured benefits"
+}

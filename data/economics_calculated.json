@@ -1,0 +1,37 @@
+{
+  "status": "SIMULADO_NO_OBSERVADO",
+  "currency": "USD",
+  "period": "12 meses",
+  "herd": 80,
+  "value_per_horse": 2800,
+  "lost_before": 6,
+  "lost_after": 2,
+  "search_hours_before": 180,
+  "search_hours_after": 60,
+  "admin_hours_before": 260,
+  "admin_hours_after": 104,
+  "hourly_cost": 8,
+  "capex": {
+    "Camara": 600,
+    "Equipo de computo": 900,
+    "UPS": 300,
+    "Red": 200,
+    "Instalacion": 400,
+    "Desarrollo": 2100,
+    "Capacitacion": 300
+  },
+  "annual_opex": {
+    "Soporte y operacion": 1200,
+    "Provision licencia comercial no cotizada": 1800
+  },
+  "caveat": "Hipótesis educativas, no cotizaciones ni ahorros demostrados. La provisión Enterprise de USD 1800 no es una tarifa de Ultralytics. Excluye impuestos, financiación, RFID y entrenamiento de identificación individual. La reducción de pérdidas requiere controles físicos y respuesta humana.",
+  "capex_total": 4800,
+  "opex_total": 3000,
+  "cost_before": 20320,
+  "cost_after": 9912,
+  "gross_benefit": 13408,
+  "net_annual_benefit": 10408,
+  "first_year_net": 5608,
+  "payback_months": 5.534204458109147,
+  "first_year_roi": 1.1683333333333332
+}

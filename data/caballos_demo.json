@@ -1,0 +1,15 @@
+[
+ {"horse_id":"EQ-001","name":"Saturno","tag":"RFID-DEMO-001","fictional":true},
+ {"horse_id":"EQ-002","name":"Plutón","tag":"RFID-DEMO-002","fictional":true},
+ {"horse_id":"EQ-003","name":"Júpiter","tag":"RFID-DEMO-003","fictional":true},
+ {"horse_id":"EQ-004","name":"Neptuno","tag":"RFID-DEMO-004","fictional":true},
+ {"horse_id":"EQ-005","name":"Venus","tag":"RFID-DEMO-005","fictional":true},
+ {"horse_id":"EQ-006","name":"Marte","tag":"RFID-DEMO-006","fictional":true},
+ {"horse_id":"EQ-007","name":"Orión","tag":"RFID-DEMO-007","fictional":true},
+ {"horse_id":"EQ-008","name":"Andrómeda","tag":"RFID-DEMO-008","fictional":true},
+ {"horse_id":"EQ-009","name":"Pegaso","tag":"RFID-DEMO-009","fictional":true},
+ {"horse_id":"EQ-010","name":"Eclipse","tag":"RFID-DEMO-010","fictional":true},
+ {"horse_id":"EQ-011","name":"Sirio","tag":"RFID-DEMO-011","fictional":true},
+ {"horse_id":"EQ-012","name":"Luna","tag":"RFID-DEMO-012","fictional":true},
+ {"horse_id":"EQ-013","name":"Cometa","tag":"RFID-DEMO-013","fictional":true}
+]

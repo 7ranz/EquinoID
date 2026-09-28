@@ -1,0 +1,14 @@
+reference_id,video_seconds,direction,description,uncertainty_seconds
+R01,0.90,ENTRADA,Primer equino gris,0.3
+R02,1.85,ENTRADA,Segundo equino alazan,0.3
+R03,2.68,ENTRADA,Tercer equino castano,0.3
+R04,3.50,ENTRADA,Gris a la derecha del grupo,0.3
+R05,3.78,ENTRADA,Claro con cara blanca del grupo,0.3
+R06,4.12,ENTRADA,Oscuro del grupo,0.3
+R07,4.70,ENTRADA,Castano que sigue al grupo,0.3
+R08,6.68,ENTRADA,Claro de la segunda tanda,0.3
+R09,7.68,ENTRADA,Oscuro anterior al gris,0.3
+R10,8.90,ENTRADA,Gris de segunda tanda,0.3
+R11,11.12,ENTRADA,Negro con marca facial,0.3
+R12,12.68,ENTRADA,Castano penultimo,0.3
+R13,13.90,ENTRADA,Negro final,0.3

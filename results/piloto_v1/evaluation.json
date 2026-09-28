@@ -1,0 +1,88 @@
+{
+  "scope": "Descriptivo sobre el mismo clip usado para ajustar la línea. No es validación independiente.",
+  "reference_type": "manual_visual_single_reviewer",
+  "reference_events": 13,
+  "predicted_events": 11,
+  "true_positive": 11,
+  "false_positive": 0,
+  "false_negative": 2,
+  "precision": 1.0,
+  "recall": 0.8461538461538461,
+  "f1": 0.9166666666666666,
+  "absolute_count_error": 2,
+  "tolerance_seconds": 0.6,
+  "pairs": [
+    {
+      "event_id": "7",
+      "reference_id": "R09",
+      "delta_seconds": 0.08
+    },
+    {
+      "event_id": "8",
+      "reference_id": "R10",
+      "delta_seconds": 0.1
+    },
+    {
+      "event_id": "1",
+      "reference_id": "R01",
+      "delta_seconds": 0.1
+    },
+    {
+      "event_id": "10",
+      "reference_id": "R12",
+      "delta_seconds": 0.113
+    },
+    {
+      "event_id": "5",
+      "reference_id": "R05",
+      "delta_seconds": 0.113
+    },
+    {
+      "event_id": "2",
+      "reference_id": "R02",
+      "delta_seconds": 0.117
+    },
+    {
+      "event_id": "9",
+      "reference_id": "R11",
+      "delta_seconds": 0.187
+    },
+    {
+      "event_id": "6",
+      "reference_id": "R08",
+      "delta_seconds": 0.247
+    },
+    {
+      "event_id": "3",
+      "reference_id": "R03",
+      "delta_seconds": 0.247
+    },
+    {
+      "event_id": "4",
+      "reference_id": "R04",
+      "delta_seconds": 0.467
+    },
+    {
+      "event_id": "11",
+      "reference_id": "R13",
+      "delta_seconds": 0.533
+    }
+  ],
+  "unmatched_predictions": [],
+  "unmatched_reference": [
+    {
+      "reference_id": "R06",
+      "video_seconds": "4.12",
+      "direction": "ENTRADA",
+      "description": "Oscuro del grupo",
+      "uncertainty_seconds": "0.3"
+    },
+    {
+      "reference_id": "R07",
+      "video_seconds": "4.70",
+      "direction": "ENTRADA",
+      "description": "Castano que sigue al grupo",
+      "uncertainty_seconds": "0.3"
+    }
+  ]
+}
